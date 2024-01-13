@@ -25,6 +25,7 @@
   color:#626262;
   font-size:20px;
   font-weight:500;
+  text-decoration: none;
 }
 
 .nav-menu li{
@@ -34,6 +35,10 @@
   justify-content: center;
   gap:3px;
   cursor: pointer;
+}
+
+.nav-menu li Link{
+  text-decoration: none;
 }
 
 .nav-menu hr{
